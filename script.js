@@ -13,18 +13,20 @@ const commands = {
   contact   - Get in touch
   clear     - Clear the screen`,
 
-  bio: `Hi, I'm [Your Name]! 👨‍💻
+  bio: `Hi, I'm Shawn Taylor, Founder of Adinotek! 👨‍💻
 An embedded systems engineer passionate about hardware/software integration, startups, and innovation.`,
 
   projects: `Projects:
-- 🔊 MEMS microphone array
+- 🔊 Early Wildfire Detection Device
 - 🌱 IoT forest monitoring
+- 🌱 Illegal Deforestation Detection Device
 - ⚡ Embedded firmware for startups`,
 
   contact: `Contact me:
-- Email: youremail@example.com
-- LinkedIn: linkedin.com/in/yourprofile
-- GitHub: github.com/yourgithub`,
+- Email: shawn.t@adinotek.com
+- Website: www.adinotek.com
+- LinkedIn: linkedin.com/in/shawn-taylor-pl
+- GitHub: github.com/shawntlive`,
 
   clear: "clear"
 };
