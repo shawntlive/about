@@ -52,7 +52,7 @@ const bootText = `
 [OK] Starting services...
 [OK] Environment ready.
 
-Welcome to My Retro Terminal 👋
+Welcome to My About Page 👋
 Type 'help' to see available commands.
 `;
 
