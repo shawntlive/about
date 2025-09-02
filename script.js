@@ -14,7 +14,7 @@ const commands = {
   clear     - Clear the screen`,
 
   bio: `Hi, I'm Shawn Taylor, Founder of Adinotek! 👨‍💻
-An embedded systems engineer passionate about hardware/software integration, startups, and innovation.`,
+First and foremost a proud coffee snob and an embedded systems engineer passionate about hardware/software integration, startups, and innovation.`,
 
   projects: `Projects:
 - 🔊 Early Wildfire Detection Device
